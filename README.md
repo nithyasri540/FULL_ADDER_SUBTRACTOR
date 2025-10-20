@@ -1,4 +1,4 @@
-# FULL_ADDER_SUBTRACTOR
+
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -44,12 +44,24 @@ Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b12c0eac-8658-425d-8fc8-4227b578dc37" />
+
+Developed by: nithyasri RegisterNumber:25018590
 */
 
-**RTL Schematic**
+
+
+
+
+
+
 
 **Output Timing Waveform**
+<img width="1920" height="1080" alt="Screenshot 2025-10-08 213521" src="https://github.com/user-attachments/assets/264a68fc-35f7-463f-b0d9-9a905a248b55" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-08 213939" src="https://github.com/user-attachments/assets/3f76b8be-61f8-454b-ba35-bf268fe1ef04" />
+
+
 
 **Result:**
 
